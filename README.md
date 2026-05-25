@@ -1622,6 +1622,7 @@ Official Google Cloud skills covering Firebase, BigQuery, Cloud Run, GKE, AlloyD
 - **[foryourhealth111-pixel/Vibe-Skills](https://github.com/foryourhealth111-pixel/Vibe-Skills)** - A skills governed plug-and-play harness for staged, test-driven skill orchestration
 - **[metalbear-co/skills](https://github.com/metalbear-co/skills)** - Skills that let agents code and test against your Kubernetes cluster using mirrord
 - **[dembrandt/dembrandt-skills](https://github.com/dembrandt/dembrandt-skills)** - UX and design system skills: hierarchy, typography, accessibility, interactions
+- **[GanyuanRan/Aegis](https://github.com/GanyuanRan/Aegis)** - Evidence-driven method pack for AI coding agents
 
 </details>
 
